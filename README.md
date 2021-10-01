@@ -4,7 +4,7 @@ This is the github page for the EEE 515 class project.
 
 ### analysis
 
-Direcotry dedicated to the analysis of convolutional layers and measurements of their similarities and cross-correlations.
+Directory dedicated to the analysis of convolutional layers and measurements of their similarities and cross-correlations.
 
 ### data
 
