@@ -4,5 +4,5 @@ Niccolò to do list:
 - import networks
 - set up neral network structure optimal for the problem
 - write loss function
-   - go back to old ML projects to see how to do it
+   - go back to saved ML projects and apply to 
 - dive into tutorials for analysis packages/mathematical tools
