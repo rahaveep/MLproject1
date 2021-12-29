@@ -1,9 +1,0 @@
-Instructions on sending files via scp: https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/
-
-Send from laptop to workstation:
-
-- navigate to directory your file is saved in
-- type in terminal from laptop: 
- $ scp filename1 niccolo@10.208.28.17:filepath
-- the file will be saved on the filepath declared on the workstation
-
