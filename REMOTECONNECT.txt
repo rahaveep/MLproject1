@@ -1,3 +1,0 @@
-Access remote server via Jupyter Notebook:
-
-https://docs.anaconda.com/anaconda/user-guide/tasks/remote-jupyter-notebook/
