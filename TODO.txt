@@ -1,8 +1,0 @@
-Niccolò to do list:
-
-- set up remote connection between local spyder editor and remote server
-- import networks
-- set up neral network structure optimal for the problem
-- write loss function
-   - go back to saved ML projects and apply to 
-- dive into tutorials for analysis packages/mathematical tools
